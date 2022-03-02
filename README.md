@@ -49,7 +49,7 @@ códigos.
 
 ## Executando os códigos
 1. O pacote questoes contem três classes, cada uma contendo um código implememntado referentes às questões do desafio;
-2. Clique com o botão do mouse em cima de uma dessas classes;
+2. Clique com o botão direito do mouse em cima de uma dessas classes;
 3. Vá até a opção Run As;
 4. Selecione o opção Java Application;
 5. Veja o programa executando na aba Console, onde é possível interagir com o programa;
@@ -57,3 +57,8 @@ códigos.
 7. Veja os resultados;
 
 ## Executando os testes
+1. O pacote testes contem uma contendo um código implememntado referentes aos testes dos programas implementados das questões 2 e 3;
+2. Clique com o botão direito do mouse em cima da classe;
+3. Vá até a opção Run As;
+4. Selecione o opção JUnit Test;
+5. Uma barra verde na lateral esquerda deve aparecer, indicando as execução e sucesso dos testes implementados.
