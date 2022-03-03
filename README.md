@@ -47,6 +47,17 @@ códigos.
 2. Selecione a pasta que contém o repositório clonado;
 3. Em Package Explorer, presente no lateral esquerda da IDE, é possível ver a estrutura do projeto e os códigos implementados;
 
+## Resolvendo a dependência JUnit 3
+1. Ao abrir o projeto pela primeira vez com o eclipse, você verá que há um erro no pacote testes;
+2. Abra essa classe e verifique a linha onde há a declaração da classe:
+	- public class Tests extends TestCase...
+3. Clique sobre o erro;
+4. Aparecerá uma opção para adicionar o JUnit como biblioteca no projeto:
+	-  Add JUnit 3 library to the build path.
+5. Selecione essa opção para instalar o JUnit 3 padrão vindo na Eclipse IDE 2021-12;
+6. O erros de import devem desaparecer.
+
+
 ## Executando os códigos
 1. O pacote questoes contem três classes, cada uma contendo um código implememntado referentes às questões do desafio;
 2. Clique com o botão direito do mouse em cima de uma dessas classes;
